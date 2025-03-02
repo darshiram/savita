@@ -1,0 +1,11 @@
+Eel==0.18.1
+playsound==1.2.2
+pvporcupine==1.9.5
+PyAudio==0.2.13
+PyAutoGUI==0.9.54
+pyttsx3==2.98
+pywhatkit==5.4
+SpeechRecognition==3.14.1
+openai
+opencv-python==4.10.0.84
+opencv-contrib-python
